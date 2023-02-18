@@ -1,4 +1,3 @@
-from dataclasses import fields
 from django import forms
 
 ESTADOS = [('AC', 'Acre'), ('AL', 'Alagoas'), ('Ap', 'Amapá'),('AM', 'Amazonas'),('BA', 'Bahia'),('CE', 'Ceará'),('DF', 'Distrito Federal'),('ES', 'Espírito Santo'),('GO', 'Goiás'),('MA', 'Maranhão'),('MT', 'Mato Grosso'),('MS', 'Mato Grosso do Sul'),('MG', 'Minas gerais'),('PA', 'Pará'),('PB', 'Paraíba'),('PR', 'Paraná'),('PE', 'Pernanbuco'),('PI', 'Piauí'),('RJ', 'Rio de Janeiro'),('RN', 'Rio Grande do Norte'),('RS', 'Rio Grande do Sul'),('AM', 'Amazonas'),('RO', 'Rondônia'),('RR', 'Roraima'),('SC', 'Santa catarina'),('SP', 'São Paulo'),('SE', 'Sergipe'),('TO', 'Tocatins')]
